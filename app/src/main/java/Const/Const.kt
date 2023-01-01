@@ -1,0 +1,4 @@
+package Const
+import UserRepository.UserRepository
+
+lateinit var repository:UserRepository
